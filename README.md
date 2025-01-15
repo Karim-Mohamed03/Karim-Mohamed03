@@ -18,7 +18,7 @@ I am a third-year computer engineering student at The University of Bristol, pas
 <a href="https://www.linkedin.com/in/karimmohamed03/" target="_blank">
   <img alt="LinkedIn" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<br><br><br>
+<br>
 
 
 
