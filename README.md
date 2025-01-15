@@ -12,10 +12,13 @@ I am a third-year computer engineering student at The University of Bristol, pas
 
 
 
-## Connect with me
+## 🌐Connect with me
 <a href="https://www.linkedin.com/in/karimmohamed03/" target="_blank">
   <img align="left" alt="LinkedIn" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+
+
+## 💻Tech Stack
 
 
 
