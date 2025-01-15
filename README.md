@@ -1,18 +1,18 @@
 <h2 align="center">Hi 👋 I'm Karim Mohamed</h2>
 
----
+
 
 ## About me:
 I am a third-year computer engineering student at The University of Bristol, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
----
+
 
 ## What I'm up to:
 - Building Spring Boot applications with PostgreSQL
 - Exploring Machine learning through scikit-learn
 - Building Flask applications with PostgreSQL
 
----
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/karimmohamed03/" target="_blank">
