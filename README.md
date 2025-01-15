@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋 I'm Karim Mohamed</h2>
-## About me:
-I am a third-year computer engineering student at The University of Bristol, passionate about exploring the realms of coding, machine learning, and building robust applications.
+## About me: I am a third-year computer engineering student at The University of Bristol, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 
 
