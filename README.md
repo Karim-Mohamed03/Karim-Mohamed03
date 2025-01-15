@@ -9,7 +9,7 @@ I am a third-year computer engineering student at The University of Bristol, pas
 - Building Flask applications with PostgreSQL
 
 ## Connect with me:
-<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "100px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
           
 
 
